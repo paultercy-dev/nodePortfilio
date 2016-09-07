@@ -1,0 +1,30 @@
+{
+  "name": "nathon",
+  "version": "0.1.0",
+  "description": "Portfolio of Nathon Reed ",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paultercy-dev/Nathonsdev.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "Nathon",
+    "Reed",
+    "Portfolio"
+  ],
+  "author": "Nathon Reed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paultercy-dev/Nathonsdev/issues"
+  },
+  "homepage": "https://github.com/paultercy-dev/Nathonsdev#readme"
+}
